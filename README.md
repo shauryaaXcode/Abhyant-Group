@@ -1,11 +1,52 @@
-<div align="center">
+# Abhyant Group - Official Website & Plotted Developments
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Premium real estate and plotted developments web application for Abhyant Group (Sign of Trust), Lucknow.
 
-  <h1>Built with AI Studio</h2>
+## Tech Stack
+- **Framework**: React 19 + Vite
+- **Styling**: Tailwind CSS v4
+- **Routing**: React Router DOM v7
+- **Icons**: Lucide React
+- **Animations**: Motion & Canvas Confetti
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Prerequisites
+- Node.js (v18 or higher recommended)
+- npm or bun
 
-</div>
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/abhyant-group.git
+
+# Navigate to project directory
+cd abhyant-group
+
+# Install dependencies
+npm install
+```
+
+### Running Locally
+```bash
+# Start development server
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) (or the port specified in terminal) in your browser.
+
+### Building for Production
+```bash
+# Build production bundle
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+## Features
+- **Interactive Township Showcase**: Featured projects (Abhyant City, Abhyant Farms, Abhyant Estate)
+- **Amenities & Connectivity**: Sultanpur Road, Outer Ring Road (Kisan Path), Purvanchal Expressway, Ekana Stadium, etc.
+- **Dynamic Plot Filter**: Size, budget, orientation, and status
+- **Interactive EMI Calculator**: Monthly installment breakdown
+- **Lead Generation Forms**: Quick enquiry & VIP site visit booking with WhatsApp integration
+- **Clean Gallery**: High resolution photographs of entrances, roads, parks, and on-ground development
